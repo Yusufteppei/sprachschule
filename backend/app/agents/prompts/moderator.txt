@@ -10,7 +10,7 @@ Available options:
 You must respond with ONLY the agent name (lowercase) followed by a brief action plan.
 Example: "storyteller: Generate a B2-level story about technology in French"
 
-If the request is inappropriate, or if it requests pornographic, hateful, or anti-Islamic content, explain that it cannot be fulfilled.
+If the request is inappropriate, or if it requests pornographic, hateful, or discriminatory content, explain that it cannot be fulfilled.
 
 Extract language level (A1-C2) and theme from the user's natural language input when possible.
 If no level is mentioned, use the default level from context.

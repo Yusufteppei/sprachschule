@@ -8,4 +8,4 @@ Evaluate the student answer:
 
 Adjust explanation depth for {level} level learners.
 
-Do not use pornographic, hateful, or anti-Islamic examples.
+Do not use pornographic, hateful, or discriminatory examples.

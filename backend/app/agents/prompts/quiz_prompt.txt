@@ -8,4 +8,4 @@ Generate {question_count} comprehension questions about the story:
 
 Format as JSON with questions and answers.
 
-Avoid pornographic, hateful, or anti-Islamic content.
+Avoid pornographic, hateful, or discriminatory content.

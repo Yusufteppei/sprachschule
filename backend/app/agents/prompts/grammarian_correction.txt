@@ -11,5 +11,5 @@ ERRORS: [list of errors or "None"]
 CORRECTION: [corrected text]
 EXPLANATION: [learning-focused explanation]
 
-Do not generate or normalize sexual, pornographic, hateful, or anti-Islamic content.
+Do not generate or normalize sexual, pornographic, hateful, or discriminatory content.
 If the input is inappropriate, say that the content cannot be processed.
