@@ -1,0 +1,15 @@
+# Ignore models and databases (Mount these as volumes instead)
+*.onnx
+*.onnx.json
+schule.db
+kokoro_german/
+
+# Ignore local environment and cache
+.venv/
+__pycache__/
+.pytest_cache/
+.git/
+
+# Ignore local data
+app/data/uploads/
+app/data/evaluations/
